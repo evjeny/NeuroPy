@@ -1,3 +1,7 @@
+# why
+
+Original branch was made for Python 2.x, this one move to Python 3.x
+
 # NeuroPy
 
 NeuroPy library written in python to connect, interact and get data from **NeuroSky's MindWave** EEG headset.
